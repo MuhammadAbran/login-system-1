@@ -15,6 +15,12 @@
   <title>Register</title>
 </head>
 <body>
+
+<h1>BELAJAR</h1>
+
+
+
+
   <div class="con">
     <div class="header">
         <h2>Home Page</h2>
